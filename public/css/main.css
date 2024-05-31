@@ -735,6 +735,12 @@ h6 {
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
+    .header .logo h1 {
+    font-size: 20px;
+  }
+  .header .logo img{
+    width: 20px;
+  }
 }
 
 /*--------------------------------------------------------------
