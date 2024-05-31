@@ -741,6 +741,9 @@ h6 {
   .header .logo img{
     width: 20px;
   }
+  .btn-getstarted{
+    display:none;
+  }
 }
 
 /*--------------------------------------------------------------
